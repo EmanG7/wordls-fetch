@@ -20,3 +20,6 @@ options:
   -o OUTPUT, --output OUTPUT
                         directs the output to a name of your choice
 ```
+
+## example
+> python wordls-fetch.py /usr/share/wordlists/rockyou.txt -c 5
