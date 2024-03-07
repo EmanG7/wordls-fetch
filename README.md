@@ -23,3 +23,5 @@ options:
 
 ## example
 > python wordls-fetch.py /usr/share/wordlists/rockyou.txt -c 5
+or
+> wordls-fetch -c 3 /usr/share/wordlists/rockyou.txt
